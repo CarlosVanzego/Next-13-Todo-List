@@ -1,3 +1,22 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+/*
+This CSS file imports Tailwind CSS styles, which are a set of utility classes for rapidly building modern web interfaces. 
+These utility classes provide a wide range of styling options for elements, such as margins, paddings, colors, and more.
+
+@tailwind base; 
+- Imports base styles like normalize.css, which provide basic styles for elements to ensure consistent rendering across browsers.
+
+@tailwind components; 
+- Imports component-specific styles, such as buttons, forms, and other UI components.
+
+@tailwind utilities; 
+- Imports utility classes, which are small, single-purpose classes that can be combined to achieve desired styles. 
+  Utilities cover a wide range of styling options, including layout, typography, spacing, and responsiveness.
+
+Tailwind CSS follows a utility-first approach, where styles are applied directly to HTML elements using utility classes, 
+which can lead to faster development and more maintainable code.
+*/
